@@ -9,3 +9,11 @@ int a = 10;
 int b = 15;
 int sub =a - b;
 Console.WriteLine("The subraction of a and b:" +subraction );
+int a = 2;
+int b = 4;
+int multiplication = a * b;
+Console.WriteLine("The multipcation of a and b:" +multiplication);
+int a = 3;
+int b = 9'
+int division = a/b;
+Console.WriteLine("The division of a and b:" + division);
